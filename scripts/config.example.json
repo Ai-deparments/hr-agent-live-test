@@ -1,0 +1,11 @@
+{
+  "bot": "your_bot_username",
+  "group_id": -1001234567890,
+  "topics": {
+    "2": "payroll",
+    "4": "analytics",
+    "6": "head",
+    "8": "recruiter",
+    "10": "onboarding"
+  }
+}

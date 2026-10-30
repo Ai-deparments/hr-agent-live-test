@@ -1,0 +1,83 @@
+{
+ "bot": [
+  "Salom",
+  "Bugun kim kech qoldi?",
+  "Кто сегодня не отметился?",
+  "Vakansiya yoz: sotuv menejeri, oylik kelishiladi"
+ ],
+ "payroll": [
+  "Oktyabr oyi uchun jarimalar jami qancha?",
+  "Kim eng ko'p jarima oldi?",
+  "Bu oy bonus olganlar bormi?",
+  "Avanslar ro'yxatini ko'rsat",
+  "<XODIM>ning oyligi qancha?",
+  "Bu oy oylik fondi qancha?",
+  "Oylik to'lashdan oldin nimani tekshirish kerak?",
+  "Kechikish uchun jarima qoidasi qanday?",
+  "Сколько начислено зарплаты за этот месяц?",
+  "Tabelni yopsa bo'ladimi?",
+  "KPI bo'yicha bonus qanday hisoblanadi?",
+  "Oylik hisobida xatolar bormi?"
+ ],
+ "analytics": [
+  "Shu hafta davomat foizi qancha?",
+  "O'tgan hafta bilan solishtir",
+  "Eng intizomli xodim kim?",
+  "Kadrlar qo'nimsizligi qanday?",
+  "Savdo agentlari reytingi",
+  "Savdo bo'yicha ABC tahlil",
+  "Bizda 80/20 qoidasi qanday chiqadi?",
+  "Qaysi bo'limda davomat eng past?",
+  "Покажи аналитику по опозданиям за месяц",
+  "Bo'limlar bo'yicha xodimlar soni",
+  "Ketish xavfi bor xodimlar bormi?",
+  "eNPS natijalari qanday?"
+ ],
+ "head": [
+  "Bugungi davomat",
+  "Hozir ishda kim bor?",
+  "<XODIM> bu oy necha marta kechikdi?",
+  "Kutilayotgan so'rovlar bormi?",
+  "Hujjatlari muddati tugayotganlar bormi?",
+  "<XODIM>ga ish joyidan ma'lumotnoma tayyorla",
+  "Кто вчера ушёл раньше времени?",
+  "Xodimlar ro'yxati lavozimi bilan",
+  "<XODIM> oxirgi marta qachon keldi?",
+  "Bu oy yangi xodim qo'shildimi?",
+  "Bir xodim ikki marta yozilgan, nima qilish kerak?",
+  "Ertaga kimlar ishda bo'lishi kerak?"
+ ],
+ "recruiter": [
+  "<VAKANSIYA> vakansiyasiga nomzod topish uchun nima qilamiz?",
+  "Qoralama vakansiyalarni ko'rsat",
+  "hh.uz dan <VAKANSIYA> qidir",
+  "Suhbat uchun bo'sh vaqtlar bormi?",
+  "Какие вакансии сейчас открыты?",
+  "Nomzodni suhbatga qanday chaqiraman?",
+  "<VAKANSIYA> e'lonini qanday yaxshilasa bo'ladi?",
+  "Yollash bo'yicha shu haftadagi natija",
+  "Nomzodlarga suhbatda qanday savollar beriladi?",
+  "Ish taklifi (offer) qanday yuboriladi?",
+  "Qaysi vakansiya eng uzoq ochiq turibdi?",
+  "Rekruting bo'yicha bugungi rejani ayt"
+ ],
+ "onboarding": [
+  "Yangi xodimlar kimlar?",
+  "Qanday onboarding materiallari bor?",
+  "<XODIM>ning onboarding rejasi",
+  "Kim materialni ko'rmagan?",
+  "Bugun onboarding suhbatlari bormi?",
+  "Yangi HR mutaxassisi uchun 2 haftalik kurs rejasini tuz",
+  "Как добавить видеоурок для новичков?",
+  "<XODIM>ning sinov muddati qachon tugaydi?",
+  "Yangi savdo agentiga birinchi kuni nima yuboramiz?",
+  "Materialni qayta yuborish mumkinmi?",
+  "Yangi xodimga mentor qanday tayinlanadi?",
+  "Onboarding bo'yicha umumiy holat qanday?"
+ ],
+ "_silence": [
+  "rahmat",
+  "ok",
+  "👍"
+ ]
+}

@@ -1,0 +1,8 @@
+*.session
+*.session-journal
+scripts/config.json
+config.json
+questions.json
+retest.json
+*.png
+__pycache__/
